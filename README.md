@@ -55,3 +55,12 @@ This project evaluates different classifiers under adversarial scenarios and imp
    ```bash
    git clone https://github.com/Mmeetttt/adversarial-attack-robustness.git
    cd adversarial-attack-robustness
+2. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+4. Run the Jupyter notebook or Python script:
+```bash
+jupyter notebook
+# or
+python main.py
